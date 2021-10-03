@@ -40,7 +40,7 @@ git push origin master
 
 Privateだと容量制限食らうので。できる限り公開にしておく。
 
-https://user-images.githubusercontent.com/55338/135757861-b334a033-56f1-40ee-bfb3-a6e6ce832e9a.png
+![Screenshot 2021-10-03 231643](https://user-images.githubusercontent.com/55338/135757861-b334a033-56f1-40ee-bfb3-a6e6ce832e9a.png)
 
 
 ## 動作チェックする。
